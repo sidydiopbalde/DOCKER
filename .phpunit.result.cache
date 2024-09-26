@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Tests\\Unit\\ServiceFirebaseTest::it_can_create_a_record_in_firebase":8,"Tests\\Unit\\ServiceFirebaseTest::it_can_find_a_record_in_firebase":8,"Tests\\Unit\\ServiceFirebaseTest::it_can_update_a_record_in_firebase":8,"Tests\\Unit\\ServiceFirebaseTest::it_can_delete_a_record_in_firebase":8},"times":[]}
